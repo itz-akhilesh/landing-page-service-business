@@ -15,3 +15,5 @@ This project includes a clean and responsive landing page layout suitable for se
 1. Open `index.html` in your browser
 2. Customize the content and styles as needed
 3. Upload to your hosting or WordPress/Shopify HTML blocks
+## 🔗 Live Demo
+👉 [View Landing Page](https://itz-akhilesh.github.io/landing-page-service-business)
