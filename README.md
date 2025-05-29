@@ -17,3 +17,5 @@ This project includes a clean and responsive landing page layout suitable for se
 3. Upload to your hosting or WordPress/Shopify HTML blocks
 ## 🔗 Live Demo
 👉 [View Landing Page](https://itz-akhilesh.github.io/landing-page-service-business)
+📩 Note: The contact form is static and included only as a design element. It is not connected to any backend service.
+
